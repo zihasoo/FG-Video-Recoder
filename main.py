@@ -50,7 +50,7 @@ while True:
 
     prev_img = img
     
-    cv.imshow('CCTV', display_img)
+    cv.imshow('FG Video Recorder', display_img)
     
     key = cv.waitKey(wait_ms)
     
